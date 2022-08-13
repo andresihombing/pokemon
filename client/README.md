@@ -8,7 +8,7 @@ Api : [https://pokeapi.co/](https://pokeapi.co/)
 
 Clone Repo : `https://github.com/andresihombing/pokemon.git`
 
-Go to directory : `cd client
+Go to directory : `cd client`
 
 Install Packages : `npm install`
 
